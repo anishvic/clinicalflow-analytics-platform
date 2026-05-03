@@ -1,0 +1,505 @@
+department,diagnosis_category,insurance_category,year,total_encounters,avg_los,max_los,min_los,total_deaths,mortality_rate_pct,inpatient_count,outpatient_count,emergency_count,short_stay_count,long_stay_count
+Neurology,Preventive,Private,2026.0,3,11.7,15,10,1,33.33,1,1,1,0,3
+Cardiology,Musculoskeletal,Government,2026.0,13,6.8,14,1,4,30.77,3,7,3,4,5
+Emergency,Musculoskeletal,Private,2024.0,26,8.9,15,1,4,15.38,8,12,6,4,16
+Neurology,Mental Health,Private,2024.0,22,7.2,15,1,3,13.64,7,7,8,6,10
+Orthopedics,Cardiovascular,Self-Pay,2024.0,74,7.6,15,1,15,20.27,29,27,18,21,35
+Orthopedics,Respiratory,Self-Pay,2024.0,56,7.9,15,1,8,14.29,18,21,17,14,30
+Orthopedics,Musculoskeletal,Self-Pay,2025.0,19,7.4,13,2,5,26.32,6,4,9,5,7
+Cardiology,Cardiovascular,Self-Pay,2026.0,27,6.8,15,1,7,25.93,13,7,7,9,11
+Cardiology,Cardiovascular,Government,2023.0,117,8.3,15,1,24,20.51,40,29,48,23,70
+Oncology,Cardiovascular,Private,2023.0,43,7.5,15,1,4,9.3,21,13,9,8,21
+Emergency,Respiratory,Self-Pay,2026.0,14,7.8,14,1,2,14.29,2,4,8,3,8
+Emergency,Endocrine,Government,2025.0,44,9.0,15,1,10,22.73,16,11,17,7,28
+Oncology,Renal,Government,2023.0,45,8.8,15,1,9,20.0,21,12,12,7,27
+Emergency,Preventive,Government,2023.0,34,9.0,15,1,6,17.65,11,8,15,2,21
+Neurology,Renal,Self-Pay,2026.0,8,9.1,15,6,0,0.0,2,0,6,0,5
+Neurology,Musculoskeletal,Government,2024.0,56,7.3,15,1,17,30.36,18,21,17,18,23
+Neurology,Cardiovascular,Government,2026.0,49,7.8,15,1,10,20.41,20,15,14,12,25
+Cardiology,Cardiovascular,Self-Pay,2024.0,77,8.4,15,1,11,14.29,24,27,26,14,43
+Cardiology,Cardiovascular,Self-Pay,2023.0,50,7.3,15,1,13,26.0,17,12,21,13,20
+Oncology,Cardiovascular,Self-Pay,2024.0,83,8.1,15,1,14,16.87,31,23,29,16,45
+Oncology,Musculoskeletal,Private,2024.0,29,8.9,15,1,3,10.34,10,13,6,5,17
+Cardiology,Renal,Private,2023.0,19,6.8,15,1,7,36.84,8,7,4,7,9
+Neurology,Endocrine,Private,2026.0,5,6.6,15,1,1,20.0,0,2,3,2,2
+Neurology,Musculoskeletal,Private,2025.0,23,8.4,15,1,0,0.0,6,9,8,4,14
+Oncology,Cardiovascular,Government,2024.0,162,8.0,15,1,29,17.9,44,46,72,36,82
+Oncology,Cardiovascular,Self-Pay,2023.0,48,8.3,15,1,14,29.17,14,12,22,7,25
+Neurology,Respiratory,Private,2025.0,56,7.6,15,1,11,19.64,21,18,17,12,30
+General Medicine,Endocrine,Government,2023.0,43,8.1,15,1,7,16.28,13,12,18,8,26
+Emergency,Respiratory,Government,2024.0,88,7.7,15,1,19,21.59,32,32,24,21,45
+Emergency,Musculoskeletal,Self-Pay,2024.0,32,7.1,15,1,10,31.25,8,14,10,9,14
+Emergency,Endocrine,Private,2023.0,18,8.0,14,2,4,22.22,7,6,5,3,10
+Cardiology,Respiratory,Private,2023.0,39,7.8,15,1,7,17.95,10,14,15,7,20
+Neurology,Musculoskeletal,Self-Pay,2023.0,22,7.5,15,1,7,31.82,5,5,12,6,11
+General Medicine,Renal,Private,2023.0,19,6.0,13,1,3,15.79,10,5,4,6,7
+Emergency,Preventive,Self-Pay,2024.0,31,8.2,15,1,6,19.35,10,11,10,4,16
+Neurology,Preventive,Government,2024.0,55,8.9,15,1,18,32.73,24,16,15,7,34
+Emergency,Musculoskeletal,Self-Pay,2026.0,9,8.0,14,2,2,22.22,4,3,2,1,4
+Emergency,Preventive,Government,2026.0,11,6.6,12,1,1,9.09,2,1,8,3,5
+Neurology,Cardiovascular,Self-Pay,2023.0,56,7.7,15,1,5,8.93,18,18,20,14,29
+Orthopedics,Cardiovascular,Self-Pay,2023.0,53,7.5,15,1,8,15.09,18,18,17,9,26
+Oncology,Musculoskeletal,Government,2025.0,64,7.3,15,1,9,14.06,24,19,21,18,29
+Oncology,Musculoskeletal,Private,2026.0,15,7.4,14,1,2,13.33,4,6,5,3,6
+Cardiology,Endocrine,Self-Pay,2025.0,27,6.7,14,1,5,18.52,9,5,13,6,12
+Neurology,Endocrine,Self-Pay,2026.0,15,6.0,15,1,6,40.0,7,5,3,4,4
+Orthopedics,Endocrine,Government,2024.0,57,8.0,15,1,9,15.79,16,18,23,12,30
+Orthopedics,Preventive,Government,2026.0,14,7.6,15,1,3,21.43,6,4,4,1,7
+Oncology,Preventive,Private,2026.0,11,8.5,14,2,1,9.09,2,2,7,2,7
+Orthopedics,Cardiovascular,Government,2024.0,176,8.2,15,1,27,15.34,62,58,56,43,99
+General Medicine,Mental Health,Self-Pay,2023.0,19,8.3,15,1,7,36.84,7,6,6,2,11
+General Medicine,Respiratory,Private,2025.0,60,8.2,15,1,6,10.0,18,20,22,13,36
+Neurology,Endocrine,Self-Pay,2023.0,24,8.6,15,1,3,12.5,12,7,5,4,15
+General Medicine,Preventive,Self-Pay,2026.0,8,8.0,15,1,4,50.0,0,5,3,3,4
+Orthopedics,Preventive,Private,2023.0,14,9.1,15,5,4,28.57,7,2,5,0,7
+Emergency,Mental Health,Government,2026.0,17,7.1,15,1,6,35.29,5,10,2,4,8
+Orthopedics,Respiratory,Government,2023.0,70,7.7,15,1,14,20.0,20,29,21,11,34
+Orthopedics,Respiratory,Private,2023.0,34,7.4,15,1,8,23.53,11,4,19,10,17
+Cardiology,Renal,Government,2024.0,54,7.7,15,1,14,25.93,18,18,18,11,27
+Neurology,Musculoskeletal,Private,2024.0,24,7.7,15,2,7,29.17,8,9,7,4,10
+Emergency,Preventive,Private,2023.0,17,7.0,15,1,3,17.65,7,6,4,6,7
+General Medicine,Mental Health,Self-Pay,2026.0,7,7.7,13,4,1,14.29,2,1,4,0,4
+Orthopedics,Mental Health,Self-Pay,2025.0,32,9.6,15,2,9,28.13,11,12,9,1,22
+Cardiology,Respiratory,Self-Pay,2023.0,36,7.7,15,1,8,22.22,10,16,10,11,17
+Cardiology,Mental Health,Private,2026.0,10,5.5,14,1,3,30.0,4,4,2,5,4
+Cardiology,Preventive,Private,2025.0,27,9.0,15,1,3,11.11,9,10,8,4,19
+Cardiology,Mental Health,Government,2026.0,23,5.9,11,1,3,13.04,6,8,9,7,9
+Emergency,Endocrine,Self-Pay,2023.0,28,9.0,15,3,6,21.43,12,11,5,4,16
+General Medicine,Preventive,Self-Pay,2024.0,20,8.4,15,1,7,35.0,6,4,10,4,12
+General Medicine,Mental Health,Private,2025.0,29,6.9,15,1,6,20.69,8,6,15,6,12
+Emergency,Musculoskeletal,Private,2025.0,30,8.5,15,1,6,20.0,7,12,11,6,19
+Cardiology,Renal,Private,2025.0,32,9.6,15,1,6,18.75,12,11,9,5,23
+Neurology,Mental Health,Government,2024.0,50,8.1,15,1,16,32.0,20,16,14,13,29
+Orthopedics,Musculoskeletal,Self-Pay,2026.0,7,8.7,15,4,1,14.29,1,3,3,0,3
+Neurology,Respiratory,Government,2023.0,59,8.4,15,1,15,25.42,23,17,19,12,35
+Oncology,Mental Health,Private,2025.0,32,7.1,15,1,3,9.38,12,8,12,8,15
+General Medicine,Preventive,Private,2023.0,20,9.7,15,1,1,5.0,3,9,8,3,14
+General Medicine,Respiratory,Government,2026.0,42,7.6,15,1,14,33.33,13,16,13,9,20
+Orthopedics,Cardiovascular,Private,2024.0,83,7.8,15,1,20,24.1,30,29,24,20,39
+Oncology,Endocrine,Self-Pay,2025.0,38,8.0,15,1,6,15.79,13,16,9,9,20
+Cardiology,Preventive,Self-Pay,2025.0,27,7.2,15,1,1,3.7,10,9,8,7,11
+Cardiology,Cardiovascular,Government,2024.0,192,7.6,15,1,35,18.23,69,63,60,48,92
+Orthopedics,Musculoskeletal,Private,2026.0,10,9.9,15,2,2,20.0,5,1,4,1,7
+General Medicine,Endocrine,Government,2025.0,60,7.9,15,1,15,25.0,21,20,19,11,31
+Cardiology,Musculoskeletal,Private,2024.0,35,6.6,14,1,10,28.57,5,15,15,9,15
+Orthopedics,Cardiovascular,Government,2023.0,109,8.0,15,1,20,18.35,38,38,33,17,65
+Neurology,Mental Health,Government,2025.0,53,7.5,15,1,10,18.87,21,17,15,11,24
+Cardiology,Musculoskeletal,Government,2024.0,49,7.6,15,1,14,28.57,17,18,14,15,27
+Orthopedics,Musculoskeletal,Government,2025.0,60,8.6,15,1,11,18.33,16,27,17,13,37
+Neurology,Cardiovascular,Government,2023.0,134,7.9,15,1,32,23.88,50,36,48,29,69
+Orthopedics,Renal,Self-Pay,2026.0,9,9.7,15,4,2,22.22,2,4,3,0,6
+Emergency,Endocrine,Government,2023.0,35,6.7,15,1,2,5.71,9,14,12,12,13
+Orthopedics,Respiratory,Government,2024.0,107,8.1,15,1,19,17.76,41,32,34,21,62
+Oncology,Musculoskeletal,Government,2023.0,41,7.8,15,1,11,26.83,13,14,14,9,22
+Cardiology,Endocrine,Private,2026.0,13,8.2,15,1,1,7.69,7,1,5,3,6
+General Medicine,Endocrine,Government,2026.0,26,7.0,15,1,6,23.08,5,10,11,7,11
+Neurology,Mental Health,Private,2025.0,26,6.8,15,1,10,38.46,6,10,10,8,11
+Orthopedics,Endocrine,Government,2025.0,48,7.9,15,1,8,16.67,9,16,23,11,26
+General Medicine,Musculoskeletal,Self-Pay,2024.0,20,7.5,15,1,7,35.0,12,4,4,6,11
+Neurology,Renal,Self-Pay,2025.0,25,8.3,15,1,6,24.0,12,7,6,4,13
+Cardiology,Renal,Private,2026.0,10,8.3,14,3,2,20.0,3,4,3,2,5
+Oncology,Musculoskeletal,Self-Pay,2025.0,36,8.4,15,1,9,25.0,13,14,9,5,19
+Oncology,Mental Health,Government,2025.0,41,8.5,15,1,8,19.51,15,13,13,5,24
+Orthopedics,Preventive,Government,2023.0,43,8.1,15,1,7,16.28,10,18,15,8,23
+Cardiology,Preventive,Self-Pay,2026.0,12,9.9,14,5,1,8.33,8,3,1,0,8
+Neurology,Endocrine,Self-Pay,2025.0,28,7.4,15,1,5,17.86,10,9,9,6,14
+Cardiology,Cardiovascular,Government,2025.0,183,8.0,15,1,35,19.13,57,59,67,38,102
+Neurology,Mental Health,Government,2026.0,19,8.7,15,1,6,31.58,8,4,7,3,10
+Emergency,Endocrine,Private,2026.0,16,7.9,15,2,3,18.75,8,4,4,3,9
+General Medicine,Cardiovascular,Private,2023.0,56,8.6,15,1,9,16.07,18,16,22,8,31
+Orthopedics,Cardiovascular,Government,2026.0,54,8.0,15,1,10,18.52,17,21,16,11,28
+Orthopedics,Preventive,Private,2024.0,21,8.4,15,1,8,38.1,5,4,12,2,12
+Emergency,Cardiovascular,Self-Pay,2023.0,64,7.8,15,1,14,21.88,20,19,25,10,27
+Orthopedics,Endocrine,Private,2025.0,29,7.3,15,1,8,27.59,10,10,9,9,14
+Emergency,Respiratory,Government,2026.0,29,8.8,14,1,5,17.24,13,10,6,6,16
+Neurology,Endocrine,Government,2023.0,29,8.1,15,1,6,20.69,7,11,11,4,17
+Emergency,Renal,Self-Pay,2025.0,30,8.0,15,2,4,13.33,13,8,9,7,16
+Neurology,Preventive,Self-Pay,2024.0,43,7.6,15,1,7,16.28,14,11,18,12,23
+Emergency,Musculoskeletal,Government,2025.0,42,6.9,15,1,7,16.67,14,14,14,12,17
+Orthopedics,Respiratory,Self-Pay,2023.0,32,7.7,15,1,4,12.5,12,9,11,8,17
+Oncology,Musculoskeletal,Self-Pay,2023.0,19,8.8,15,1,2,10.53,7,6,6,3,12
+Orthopedics,Renal,Government,2026.0,22,6.7,15,1,3,13.64,8,6,8,7,8
+Emergency,Preventive,Private,2026.0,10,5.0,10,2,2,20.0,2,5,3,3,2
+Cardiology,Endocrine,Self-Pay,2023.0,21,6.1,14,1,6,28.57,9,4,8,5,7
+Emergency,Renal,Self-Pay,2023.0,17,8.4,15,1,3,17.65,5,5,7,6,10
+Cardiology,Renal,Self-Pay,2023.0,21,8.1,15,2,4,19.05,11,4,6,4,11
+Cardiology,Mental Health,Private,2025.0,29,7.7,15,1,4,13.79,8,11,10,6,14
+Neurology,Preventive,Government,2026.0,15,7.9,15,2,4,26.67,3,5,7,5,8
+Orthopedics,Musculoskeletal,Private,2024.0,28,8.0,15,2,6,21.43,8,12,8,7,16
+Oncology,Renal,Self-Pay,2024.0,22,8.3,15,2,3,13.64,9,6,7,4,12
+Orthopedics,Renal,Government,2023.0,42,8.3,15,1,10,23.81,13,12,17,7,24
+Neurology,Renal,Private,2025.0,25,7.4,14,1,6,24.0,7,11,7,3,12
+Emergency,Renal,Private,2025.0,27,8.2,15,1,6,22.22,11,8,8,9,15
+Oncology,Endocrine,Government,2024.0,49,8.1,15,1,13,26.53,15,16,18,12,26
+Orthopedics,Cardiovascular,Private,2025.0,70,7.1,15,1,16,22.86,18,28,24,15,28
+Orthopedics,Respiratory,Private,2026.0,25,8.2,15,1,1,4.0,7,10,8,4,14
+Oncology,Renal,Self-Pay,2026.0,6,6.2,14,1,1,16.67,3,2,1,3,2
+Cardiology,Endocrine,Government,2025.0,58,8.6,15,1,15,25.86,15,19,24,11,35
+Cardiology,Mental Health,Government,2025.0,56,8.4,15,1,9,16.07,28,14,14,9,33
+Cardiology,Mental Health,Private,2024.0,30,9.6,15,1,8,26.67,9,8,13,4,19
+Cardiology,Musculoskeletal,Government,2023.0,32,7.7,15,1,6,18.75,12,11,9,8,15
+Oncology,Respiratory,Government,2026.0,37,7.8,15,1,3,8.11,13,15,9,8,20
+Cardiology,Endocrine,Self-Pay,2026.0,4,4.0,7,2,1,25.0,2,0,2,2,0
+Cardiology,Preventive,Private,2026.0,8,7.9,14,3,0,0.0,2,4,2,1,3
+Orthopedics,Respiratory,Private,2024.0,59,8.4,15,1,9,15.25,18,24,17,9,32
+Cardiology,Preventive,Government,2024.0,58,8.4,15,1,10,17.24,23,19,16,7,37
+Neurology,Preventive,Private,2023.0,19,7.3,13,1,7,36.84,7,3,9,4,9
+Oncology,Mental Health,Private,2026.0,8,10.1,14,1,1,12.5,4,2,2,1,7
+Neurology,Preventive,Self-Pay,2026.0,5,7.2,15,2,0,0.0,2,2,1,2,2
+Oncology,Cardiovascular,Government,2025.0,166,7.7,15,1,26,15.66,48,50,68,34,82
+Cardiology,Cardiovascular,Private,2025.0,86,7.9,15,1,18,20.93,22,35,29,18,48
+General Medicine,Endocrine,Private,2023.0,21,7.1,15,1,1,4.76,5,6,10,8,9
+Emergency,Cardiovascular,Government,2026.0,67,8.9,15,2,14,20.9,25,15,27,10,40
+Orthopedics,Respiratory,Government,2025.0,118,7.4,15,1,24,20.34,43,34,41,32,55
+Oncology,Endocrine,Self-Pay,2026.0,8,7.0,14,2,4,50.0,2,2,4,3,5
+Cardiology,Cardiovascular,Private,2026.0,26,7.5,14,1,1,3.85,8,7,11,2,10
+Orthopedics,Renal,Private,2026.0,5,12.0,14,7,1,20.0,2,2,1,0,4
+Oncology,Preventive,Government,2023.0,43,8.1,15,1,5,11.63,10,18,15,10,22
+Orthopedics,Mental Health,Self-Pay,2026.0,12,8.2,14,1,3,25.0,2,7,3,3,7
+General Medicine,Mental Health,Government,2025.0,61,7.7,15,1,11,18.03,20,26,15,12,31
+Orthopedics,Renal,Self-Pay,2025.0,25,8.6,15,2,5,20.0,9,8,8,4,16
+Orthopedics,Endocrine,Government,2023.0,42,8.7,15,1,10,23.81,14,11,17,8,26
+Cardiology,Preventive,Government,2025.0,56,8.4,15,1,13,23.21,19,15,22,7,32
+General Medicine,Respiratory,Government,2024.0,130,7.9,15,1,24,18.46,46,38,46,25,68
+Cardiology,Renal,Self-Pay,2025.0,31,7.5,15,1,4,12.9,10,8,13,7,15
+Neurology,Respiratory,Self-Pay,2024.0,54,8.2,15,1,15,27.78,11,24,19,14,32
+Oncology,Renal,Private,2024.0,19,7.8,15,2,1,5.26,7,9,3,2,8
+Neurology,Musculoskeletal,Government,2025.0,70,7.8,15,1,12,17.14,28,22,20,16,37
+Emergency,Preventive,Self-Pay,2023.0,9,10.0,15,4,2,22.22,2,3,4,0,6
+Oncology,Endocrine,Self-Pay,2024.0,27,8.2,14,1,7,25.93,9,8,10,6,17
+Neurology,Respiratory,Self-Pay,2026.0,20,7.5,15,1,2,10.0,6,6,8,4,10
+Oncology,Preventive,Private,2025.0,37,8.0,15,1,9,24.32,18,8,11,6,18
+Oncology,Respiratory,Self-Pay,2024.0,55,8.0,15,1,15,27.27,14,21,20,13,29
+Orthopedics,Mental Health,Private,2024.0,29,8.1,15,1,6,20.69,7,8,14,7,14
+Cardiology,Endocrine,Private,2025.0,23,6.3,15,1,6,26.09,10,5,8,10,10
+Neurology,Endocrine,Self-Pay,2024.0,38,9.0,15,1,7,18.42,15,13,10,6,20
+General Medicine,Endocrine,Government,2024.0,57,8.3,15,1,9,15.79,20,21,16,9,32
+Cardiology,Respiratory,Government,2024.0,126,8.0,15,1,25,19.84,41,44,41,27,64
+Cardiology,Preventive,Self-Pay,2024.0,39,8.2,15,1,9,23.08,12,14,13,4,20
+Oncology,Preventive,Government,2026.0,14,7.7,15,1,3,21.43,6,0,8,5,7
+Oncology,Cardiovascular,Government,2026.0,57,8.2,15,1,10,17.54,15,22,20,11,33
+General Medicine,Respiratory,Private,2026.0,18,8.7,15,1,3,16.67,6,6,6,3,9
+Orthopedics,Endocrine,Government,2026.0,13,5.8,15,1,3,23.08,9,2,2,4,4
+Orthopedics,Renal,Self-Pay,2024.0,24,9.0,15,1,4,16.67,9,7,8,3,16
+Neurology,Cardiovascular,Self-Pay,2024.0,95,8.1,15,1,14,14.74,43,26,26,17,48
+Oncology,Musculoskeletal,Government,2026.0,10,7.6,14,2,3,30.0,5,4,1,3,5
+Emergency,Endocrine,Private,2024.0,25,8.2,14,1,6,24.0,5,11,9,7,15
+Emergency,Cardiovascular,Self-Pay,2026.0,33,8.4,15,2,4,12.12,11,12,10,5,16
+Emergency,Renal,Self-Pay,2026.0,16,7.9,15,1,5,31.25,4,6,6,3,6
+General Medicine,Mental Health,Private,2026.0,5,8.2,15,4,1,20.0,2,1,2,0,2
+Neurology,Preventive,Government,2025.0,55,7.5,15,1,11,20.0,17,15,23,10,25
+Cardiology,Mental Health,Government,2023.0,38,8.5,15,1,2,5.26,10,9,19,8,24
+Neurology,Endocrine,Government,2024.0,52,7.1,15,1,9,17.31,16,20,16,18,25
+Neurology,Preventive,Self-Pay,2023.0,16,7.9,13,3,3,18.75,6,5,5,2,8
+Emergency,Mental Health,Private,2023.0,22,9.2,15,3,3,13.64,7,6,9,1,14
+General Medicine,Renal,Self-Pay,2025.0,32,8.7,15,1,4,12.5,6,15,11,7,19
+General Medicine,Endocrine,Self-Pay,2025.0,32,7.5,15,2,7,21.88,13,11,8,6,15
+Emergency,Respiratory,Self-Pay,2023.0,40,8.2,15,1,10,25.0,16,12,12,8,25
+Emergency,Preventive,Self-Pay,2026.0,9,6.4,12,1,4,44.44,1,5,3,2,3
+Emergency,Respiratory,Private,2025.0,56,7.9,15,1,12,21.43,21,16,19,10,29
+Cardiology,Preventive,Government,2026.0,18,9.0,15,1,3,16.67,7,6,5,3,14
+Cardiology,Endocrine,Self-Pay,2024.0,27,7.6,14,1,2,7.41,9,12,6,6,15
+Emergency,Musculoskeletal,Private,2026.0,9,8.8,15,1,3,33.33,3,3,3,1,5
+General Medicine,Preventive,Private,2026.0,6,8.5,14,4,0,0.0,1,3,2,0,3
+Emergency,Preventive,Government,2024.0,45,8.3,15,1,8,17.78,18,14,13,9,25
+Orthopedics,Respiratory,Self-Pay,2025.0,49,7.4,15,1,9,18.37,15,16,18,10,18
+Cardiology,Cardiovascular,Government,2026.0,62,8.1,15,1,10,16.13,22,12,28,14,33
+General Medicine,Endocrine,Private,2024.0,23,7.5,15,1,4,17.39,6,10,7,3,9
+General Medicine,Musculoskeletal,Self-Pay,2026.0,12,9.9,15,2,5,41.67,4,4,4,1,8
+Oncology,Cardiovascular,Private,2026.0,28,8.1,15,1,5,17.86,7,9,12,5,16
+Oncology,Mental Health,Self-Pay,2024.0,24,6.4,15,1,5,20.83,11,4,9,5,8
+Oncology,Cardiovascular,Self-Pay,2026.0,27,8.1,15,1,7,25.93,9,8,10,8,16
+Emergency,Renal,Government,2024.0,71,8.4,15,1,15,21.13,22,24,25,14,38
+Emergency,Respiratory,Government,2025.0,125,8.0,15,1,24,19.2,47,41,37,33,68
+Neurology,Mental Health,Private,2023.0,15,8.3,15,1,3,20.0,5,4,6,4,9
+Oncology,Preventive,Private,2023.0,11,8.2,14,3,3,27.27,4,4,3,1,6
+Orthopedics,Preventive,Government,2024.0,49,8.4,15,1,18,36.73,18,20,11,10,27
+Emergency,Cardiovascular,Government,2025.0,161,7.7,15,1,35,21.74,47,65,49,36,86
+General Medicine,Musculoskeletal,Government,2026.0,23,8.0,15,1,5,21.74,7,8,8,7,13
+General Medicine,Respiratory,Government,2025.0,107,8.0,15,1,14,13.08,32,40,35,18,56
+Oncology,Renal,Private,2026.0,8,7.6,15,1,0,0.0,3,1,4,2,4
+Orthopedics,Musculoskeletal,Self-Pay,2024.0,26,7.3,15,1,5,19.23,12,8,6,7,13
+Neurology,Cardiovascular,Private,2023.0,49,8.0,15,1,8,16.33,20,13,16,11,30
+Cardiology,Preventive,Self-Pay,2023.0,18,8.1,15,2,3,16.67,9,8,1,3,10
+Orthopedics,Mental Health,Government,2023.0,42,10.0,15,1,11,26.19,8,18,16,6,30
+Emergency,Preventive,Private,2024.0,27,8.4,15,1,5,18.52,10,11,6,5,15
+Oncology,Mental Health,Government,2024.0,69,7.3,15,1,18,26.09,27,21,21,19,34
+General Medicine,Endocrine,Self-Pay,2024.0,25,9.0,14,3,5,20.0,8,7,10,2,17
+Emergency,Mental Health,Self-Pay,2026.0,12,7.3,15,1,4,33.33,5,3,4,2,5
+Emergency,Mental Health,Self-Pay,2023.0,18,9.0,15,2,5,27.78,3,6,9,2,13
+Orthopedics,Endocrine,Self-Pay,2024.0,29,8.3,15,2,4,13.79,6,13,10,6,17
+General Medicine,Musculoskeletal,Self-Pay,2023.0,10,10.6,15,7,1,10.0,3,5,2,0,7
+Emergency,Renal,Private,2024.0,25,6.7,15,1,8,32.0,10,7,8,7,13
+Neurology,Musculoskeletal,Private,2023.0,19,9.3,15,4,3,15.79,5,9,5,0,12
+Emergency,Cardiovascular,Private,2026.0,21,10.0,14,1,7,33.33,9,5,7,3,17
+Orthopedics,Endocrine,Self-Pay,2026.0,16,8.4,14,2,4,25.0,7,6,3,3,10
+Emergency,Renal,Self-Pay,2024.0,23,6.5,14,1,6,26.09,12,6,5,6,11
+Oncology,Musculoskeletal,Private,2023.0,15,7.1,14,1,6,40.0,0,8,7,5,7
+Cardiology,Endocrine,Government,2026.0,23,8.3,14,1,3,13.04,7,5,11,3,13
+Cardiology,Renal,Self-Pay,2026.0,5,7.4,13,1,0,0.0,2,3,0,1,2
+General Medicine,Musculoskeletal,Government,2023.0,39,8.9,15,1,9,23.08,14,11,14,4,25
+Orthopedics,Cardiovascular,Private,2023.0,53,8.2,15,1,9,16.98,17,13,23,10,27
+Cardiology,Musculoskeletal,Private,2026.0,12,8.9,15,1,2,16.67,7,1,4,1,7
+Orthopedics,Renal,Private,2024.0,25,7.9,15,1,6,24.0,10,10,5,6,14
+Emergency,Mental Health,Private,2026.0,6,8.3,14,3,1,16.67,0,2,4,1,3
+Emergency,Endocrine,Government,2024.0,63,7.6,15,1,8,12.7,25,21,17,14,29
+Emergency,Cardiovascular,Private,2025.0,77,8.0,15,1,17,22.08,28,25,24,15,39
+General Medicine,Cardiovascular,Government,2023.0,104,8.7,15,1,28,26.92,39,37,28,17,64
+Oncology,Preventive,Government,2025.0,54,7.5,15,1,15,27.78,12,13,29,14,29
+Neurology,Mental Health,Self-Pay,2024.0,30,9.2,15,1,1,3.33,7,12,11,4,19
+Orthopedics,Cardiovascular,Government,2025.0,151,7.5,15,1,19,12.58,48,50,53,37,70
+Oncology,Musculoskeletal,Self-Pay,2026.0,5,10.8,15,6,1,20.0,2,1,2,0,4
+Emergency,Musculoskeletal,Self-Pay,2023.0,12,6.4,11,1,5,41.67,3,5,4,1,3
+General Medicine,Preventive,Self-Pay,2023.0,18,8.1,15,2,2,11.11,6,4,8,3,7
+Oncology,Endocrine,Private,2023.0,12,8.4,15,3,3,25.0,2,4,6,1,6
+Emergency,Endocrine,Self-Pay,2024.0,21,9.7,15,1,7,33.33,7,10,4,3,13
+Oncology,Respiratory,Private,2026.0,19,7.4,15,1,4,21.05,7,7,5,5,8
+Emergency,Musculoskeletal,Government,2023.0,35,9.4,15,1,7,20.0,11,8,16,3,25
+Cardiology,Preventive,Private,2024.0,24,7.8,15,2,5,20.83,9,7,8,4,12
+Oncology,Cardiovascular,Self-Pay,2025.0,89,8.0,15,1,18,20.22,29,30,30,21,51
+Orthopedics,Respiratory,Government,2026.0,46,8.0,15,1,9,19.57,14,14,18,10,24
+Oncology,Respiratory,Government,2024.0,127,8.2,15,1,22,17.32,44,38,45,28,69
+Orthopedics,Preventive,Self-Pay,2025.0,29,8.1,15,1,7,24.14,14,11,4,8,15
+Orthopedics,Musculoskeletal,Government,2023.0,36,7.2,15,1,6,16.67,15,10,11,9,18
+Oncology,Endocrine,Private,2024.0,20,8.3,15,1,4,20.0,8,7,5,5,12
+Cardiology,Musculoskeletal,Self-Pay,2024.0,32,8.3,15,2,5,15.63,13,8,11,4,18
+General Medicine,Cardiovascular,Self-Pay,2024.0,89,8.2,15,1,9,10.11,33,28,28,14,49
+Emergency,Endocrine,Private,2025.0,17,9.6,15,1,2,11.76,5,5,7,2,12
+General Medicine,Cardiovascular,Private,2026.0,26,8.0,15,1,5,19.23,4,10,12,6,12
+Oncology,Respiratory,Self-Pay,2025.0,50,8.5,15,1,7,14.0,14,20,16,10,29
+General Medicine,Preventive,Private,2025.0,19,9.9,15,1,5,26.32,8,10,1,3,12
+General Medicine,Cardiovascular,Self-Pay,2026.0,23,7.2,15,1,5,21.74,7,13,3,6,9
+Neurology,Cardiovascular,Government,2024.0,180,8.3,15,1,36,20.0,60,57,63,31,99
+Emergency,Renal,Government,2026.0,19,9.3,15,4,2,10.53,6,7,6,0,13
+Neurology,Respiratory,Government,2026.0,41,7.8,15,1,6,14.63,12,15,14,12,21
+Emergency,Cardiovascular,Government,2024.0,173,8.6,15,1,40,23.12,44,67,62,26,105
+Neurology,Renal,Government,2024.0,51,7.4,15,1,13,25.49,16,23,12,11,25
+General Medicine,Preventive,Private,2024.0,29,9.0,15,1,8,27.59,9,12,8,4,20
+General Medicine,Musculoskeletal,Self-Pay,2025.0,30,7.6,15,1,8,26.67,13,11,6,6,15
+Cardiology,Mental Health,Self-Pay,2023.0,20,6.8,14,1,4,20.0,8,6,6,6,7
+Orthopedics,Mental Health,Self-Pay,2024.0,31,9.2,15,1,10,32.26,12,7,12,2,20
+Orthopedics,Respiratory,Self-Pay,2026.0,26,9.0,15,1,8,30.77,7,14,5,4,18
+Emergency,Cardiovascular,Private,2023.0,60,8.4,15,1,10,16.67,19,18,23,9,37
+Orthopedics,Mental Health,Self-Pay,2023.0,16,8.6,15,2,4,25.0,8,5,3,3,9
+Emergency,Cardiovascular,Self-Pay,2025.0,97,8.5,15,1,15,15.46,32,29,36,15,56
+Orthopedics,Preventive,Government,2025.0,52,7.3,15,1,8,15.38,16,20,16,13,26
+General Medicine,Renal,Government,2024.0,46,8.1,15,1,10,21.74,13,14,19,11,24
+Neurology,Endocrine,Government,2025.0,66,9.1,15,1,11,16.67,27,20,19,10,41
+Cardiology,Respiratory,Government,2023.0,75,7.8,15,1,15,20.0,17,33,25,14,38
+Neurology,Renal,Self-Pay,2024.0,28,8.3,15,1,2,7.14,8,11,9,5,18
+Neurology,Preventive,Self-Pay,2025.0,26,8.2,15,1,3,11.54,5,9,12,7,16
+Orthopedics,Endocrine,Self-Pay,2025.0,29,7.9,15,2,6,20.69,7,11,11,5,14
+Oncology,Respiratory,Self-Pay,2023.0,28,8.0,15,1,8,28.57,8,7,13,5,17
+Emergency,Cardiovascular,Private,2024.0,94,7.5,15,1,21,22.34,29,30,35,21,47
+Emergency,Mental Health,Government,2023.0,41,8.4,15,1,10,24.39,16,12,13,9,22
+Orthopedics,Renal,Private,2025.0,27,7.3,15,1,6,22.22,9,11,7,6,12
+General Medicine,Renal,Government,2026.0,28,9.1,15,1,2,7.14,13,8,7,5,21
+Emergency,Musculoskeletal,Self-Pay,2025.0,33,7.9,15,1,9,27.27,14,9,10,7,19
+Orthopedics,Respiratory,Private,2025.0,47,8.4,15,1,8,17.02,16,18,13,7,25
+Oncology,Renal,Government,2024.0,57,7.9,15,1,7,12.28,11,22,24,11,30
+Orthopedics,Mental Health,Government,2024.0,66,8.2,15,1,12,18.18,18,21,27,9,33
+Oncology,Musculoskeletal,Self-Pay,2024.0,38,7.0,15,1,5,13.16,13,14,11,11,15
+Cardiology,Musculoskeletal,Private,2025.0,22,7.8,15,1,2,9.09,4,7,11,5,13
+Neurology,Musculoskeletal,Government,2023.0,34,8.9,15,1,6,17.65,11,15,8,6,22
+Neurology,Renal,Private,2024.0,25,7.5,15,2,2,8.0,6,11,8,3,10
+Neurology,Musculoskeletal,Private,2026.0,10,6.9,14,1,2,20.0,2,2,6,2,4
+General Medicine,Respiratory,Private,2024.0,55,7.8,15,1,11,20.0,14,19,22,14,31
+Cardiology,Mental Health,Self-Pay,2024.0,22,7.5,15,1,8,36.36,7,8,7,4,13
+Neurology,Respiratory,Government,2025.0,105,7.3,15,1,18,17.14,25,40,40,19,45
+Neurology,Cardiovascular,Private,2024.0,84,7.3,15,1,22,26.19,30,23,31,25,38
+General Medicine,Preventive,Government,2026.0,16,8.9,15,1,2,12.5,6,1,9,2,9
+Cardiology,Respiratory,Government,2025.0,120,7.7,15,1,23,19.17,40,39,41,25,62
+Cardiology,Respiratory,Self-Pay,2025.0,45,8.3,15,2,4,8.89,19,17,9,5,23
+Oncology,Preventive,Self-Pay,2024.0,26,6.8,14,1,7,26.92,13,6,7,7,13
+Neurology,Preventive,Government,2023.0,35,8.8,15,1,4,11.43,12,15,8,6,22
+Oncology,Renal,Self-Pay,2023.0,13,7.6,15,2,5,38.46,5,5,3,3,8
+Oncology,Respiratory,Government,2025.0,102,8.3,15,1,20,19.61,29,40,33,18,57
+General Medicine,Mental Health,Government,2026.0,20,8.2,15,1,2,10.0,5,8,7,5,11
+General Medicine,Mental Health,Government,2024.0,65,7.8,15,1,12,18.46,24,22,19,16,33
+General Medicine,Endocrine,Private,2026.0,15,7.9,15,1,2,13.33,8,3,4,2,8
+Neurology,Respiratory,Self-Pay,2023.0,38,6.7,15,1,6,15.79,13,14,11,9,14
+General Medicine,Cardiovascular,Government,2026.0,63,8.2,15,1,17,26.98,23,22,18,12,31
+Cardiology,Endocrine,Government,2024.0,57,7.1,14,1,8,14.04,18,18,21,13,28
+Oncology,Renal,Private,2025.0,31,8.4,15,1,9,29.03,9,6,16,4,18
+Neurology,Renal,Government,2026.0,19,5.6,11,1,1,5.26,4,6,9,6,6
+Emergency,Preventive,Self-Pay,2025.0,21,7.7,15,1,3,14.29,5,7,9,5,10
+Emergency,Musculoskeletal,Private,2023.0,11,8.0,15,2,5,45.45,6,0,5,3,6
+Emergency,Cardiovascular,Government,2023.0,122,8.1,15,1,32,26.23,53,38,31,24,65
+Emergency,Respiratory,Self-Pay,2025.0,51,8.0,15,1,7,13.73,14,16,21,11,29
+General Medicine,Cardiovascular,Private,2024.0,82,8.0,15,1,16,19.51,32,22,28,14,39
+Oncology,Respiratory,Government,2023.0,70,7.8,15,1,19,27.14,32,17,21,17,34
+Emergency,Mental Health,Private,2024.0,38,7.7,15,1,13,34.21,15,10,13,6,19
+Orthopedics,Mental Health,Private,2026.0,10,9.6,15,4,2,20.0,4,3,3,0,7
+Emergency,Respiratory,Private,2023.0,39,6.9,14,1,6,15.38,11,14,14,10,18
+Oncology,Mental Health,Self-Pay,2023.0,10,7.9,14,1,0,0.0,3,2,5,3,5
+Neurology,Renal,Self-Pay,2023.0,17,9.5,15,1,4,23.53,4,5,8,2,13
+Oncology,Musculoskeletal,Private,2025.0,30,8.1,14,1,4,13.33,10,7,13,6,18
+Neurology,Endocrine,Government,2026.0,24,9.2,15,1,2,8.33,11,5,8,2,17
+Orthopedics,Mental Health,Private,2025.0,22,8.5,13,3,5,22.73,9,9,4,1,13
+Neurology,Renal,Private,2023.0,22,7.5,15,1,5,22.73,7,9,6,8,11
+Neurology,Musculoskeletal,Self-Pay,2025.0,18,9.6,15,2,4,22.22,7,4,7,1,13
+General Medicine,Respiratory,Government,2023.0,71,9.1,15,1,16,22.54,16,30,25,12,47
+Orthopedics,Mental Health,Government,2026.0,18,9.7,15,2,3,16.67,6,6,6,2,14
+Oncology,Mental Health,Private,2024.0,25,7.6,14,2,6,24.0,8,12,5,4,13
+Emergency,Renal,Government,2025.0,50,8.1,15,1,11,22.0,14,16,20,13,26
+Oncology,Endocrine,Government,2025.0,53,8.3,15,1,11,20.75,16,14,23,9,31
+Emergency,Respiratory,Government,2023.0,52,8.5,15,1,10,19.23,12,19,21,7,30
+Oncology,Renal,Private,2023.0,18,7.9,15,1,3,16.67,6,5,7,3,8
+Neurology,Renal,Private,2026.0,8,5.1,13,1,0,0.0,0,3,5,4,2
+Orthopedics,Musculoskeletal,Government,2026.0,20,8.7,15,1,5,25.0,5,8,7,3,11
+Emergency,Renal,Private,2026.0,4,9.5,12,7,2,50.0,2,2,0,0,3
+Orthopedics,Preventive,Private,2026.0,9,7.2,15,2,2,22.22,2,5,2,2,3
+General Medicine,Mental Health,Government,2023.0,37,6.8,15,1,8,21.62,12,15,10,9,14
+Cardiology,Renal,Government,2023.0,29,8.4,15,1,9,31.03,12,7,10,5,15
+Cardiology,Respiratory,Private,2026.0,29,7.7,15,1,10,34.48,10,10,9,6,13
+Neurology,Respiratory,Private,2026.0,25,8.4,15,1,2,8.0,15,7,3,7,15
+General Medicine,Mental Health,Private,2023.0,15,10.1,15,1,2,13.33,4,5,6,2,11
+Emergency,Mental Health,Private,2025.0,25,9.4,15,1,4,16.0,9,6,10,2,18
+Oncology,Preventive,Self-Pay,2026.0,10,9.5,15,2,2,20.0,2,6,2,2,6
+General Medicine,Cardiovascular,Self-Pay,2023.0,53,8.4,15,1,12,22.64,18,18,17,7,29
+Oncology,Endocrine,Self-Pay,2023.0,27,8.3,15,1,3,11.11,11,11,5,4,15
+Emergency,Respiratory,Private,2024.0,63,7.9,15,1,16,25.4,27,23,13,13,34
+Cardiology,Renal,Government,2026.0,21,8.6,15,1,3,14.29,10,5,6,5,12
+Neurology,Cardiovascular,Private,2026.0,23,7.4,15,1,3,13.04,13,5,5,5,11
+Oncology,Mental Health,Private,2023.0,19,6.8,15,1,1,5.26,3,6,10,6,6
+Neurology,Cardiovascular,Self-Pay,2025.0,92,7.6,15,1,28,30.43,34,30,28,18,45
+General Medicine,Preventive,Government,2024.0,58,8.0,15,1,12,20.69,19,21,18,9,32
+Cardiology,Endocrine,Government,2023.0,32,7.6,15,1,8,25.0,11,8,13,4,13
+General Medicine,Renal,Self-Pay,2024.0,18,8.5,15,2,3,16.67,7,5,6,2,11
+Neurology,Respiratory,Self-Pay,2025.0,56,8.6,15,1,11,19.64,19,13,24,7,30
+Emergency,Cardiovascular,Self-Pay,2024.0,93,8.6,15,1,20,21.51,36,39,18,12,53
+Oncology,Endocrine,Private,2026.0,6,7.5,13,4,2,33.33,3,0,3,0,2
+Neurology,Mental Health,Self-Pay,2025.0,38,8.5,15,1,9,23.68,14,7,17,7,24
+General Medicine,Renal,Private,2026.0,12,8.4,15,1,3,25.0,6,4,2,3,9
+Orthopedics,Musculoskeletal,Self-Pay,2023.0,24,8.4,15,1,9,37.5,11,6,7,3,15
+Neurology,Respiratory,Private,2024.0,57,8.4,15,1,10,17.54,19,23,15,13,33
+Oncology,Preventive,Government,2024.0,61,8.8,15,1,9,14.75,13,28,20,7,32
+Orthopedics,Renal,Government,2024.0,56,9.2,15,1,13,23.21,22,21,13,9,36
+Neurology,Respiratory,Government,2024.0,103,7.5,15,1,21,20.39,30,29,44,23,46
+Oncology,Endocrine,Government,2026.0,20,8.7,15,1,4,20.0,7,6,7,5,12
+Neurology,Renal,Government,2025.0,65,8.0,15,1,8,12.31,24,24,17,13,32
+Orthopedics,Endocrine,Private,2024.0,23,9.3,15,1,6,26.09,7,3,13,4,16
+Neurology,Cardiovascular,Private,2025.0,77,8.1,15,1,19,24.68,31,22,24,15,41
+Neurology,Mental Health,Self-Pay,2023.0,21,6.6,14,1,2,9.52,10,6,5,6,9
+Orthopedics,Musculoskeletal,Government,2024.0,49,7.4,15,1,11,22.45,16,19,14,13,21
+Emergency,Mental Health,Government,2025.0,52,8.3,15,1,8,15.38,16,19,17,6,27
+Cardiology,Musculoskeletal,Government,2025.0,59,8.2,15,1,11,18.64,25,15,19,11,32
+Emergency,Musculoskeletal,Government,2024.0,53,7.2,15,1,14,26.42,16,23,14,15,23
+Oncology,Renal,Self-Pay,2025.0,35,8.5,15,2,6,17.14,9,14,12,3,20
+Oncology,Mental Health,Self-Pay,2025.0,19,6.5,15,2,6,31.58,6,6,7,5,6
+General Medicine,Musculoskeletal,Private,2026.0,9,7.9,15,1,0,0.0,3,2,4,1,5
+General Medicine,Renal,Government,2023.0,37,7.7,15,1,9,24.32,8,13,16,7,17
+Oncology,Preventive,Private,2024.0,39,8.2,15,1,4,10.26,10,16,13,4,22
+Orthopedics,Mental Health,Government,2025.0,64,7.5,15,1,13,20.31,18,22,24,15,33
+General Medicine,Respiratory,Self-Pay,2024.0,55,8.1,15,1,14,25.45,19,11,25,12,32
+Neurology,Endocrine,Private,2024.0,27,8.3,15,1,3,11.11,8,11,8,5,16
+General Medicine,Mental Health,Self-Pay,2024.0,32,8.0,15,2,8,25.0,11,8,13,7,17
+Cardiology,Respiratory,Private,2025.0,63,7.6,15,1,10,15.87,21,23,19,16,32
+Oncology,Respiratory,Private,2025.0,51,8.0,15,1,9,17.65,12,14,25,11,27
+Cardiology,Mental Health,Private,2023.0,13,7.5,14,2,2,15.38,3,6,4,2,5
+General Medicine,Cardiovascular,Government,2025.0,177,8.1,15,1,46,25.99,52,64,61,38,97
+Oncology,Cardiovascular,Government,2023.0,113,7.4,15,1,22,19.47,42,40,31,31,57
+Cardiology,Respiratory,Self-Pay,2024.0,65,7.8,15,1,14,21.54,18,21,26,13,34
+Orthopedics,Preventive,Private,2025.0,31,9.0,15,1,4,12.9,9,7,15,7,19
+General Medicine,Musculoskeletal,Government,2025.0,63,9.5,15,1,15,23.81,21,18,24,6,42
+Cardiology,Mental Health,Self-Pay,2025.0,30,7.8,15,1,4,13.33,10,8,12,8,17
+Neurology,Respiratory,Private,2023.0,37,7.7,15,1,9,24.32,13,11,13,10,16
+Neurology,Cardiovascular,Government,2025.0,160,7.9,15,1,26,16.25,52,53,55,30,88
+Emergency,Respiratory,Self-Pay,2024.0,54,8.5,15,1,5,9.26,19,17,18,8,30
+Orthopedics,Cardiovascular,Self-Pay,2026.0,28,7.6,14,1,11,39.29,13,6,9,3,15
+Cardiology,Renal,Private,2024.0,25,7.2,13,1,3,12.0,7,10,8,5,12
+Cardiology,Musculoskeletal,Self-Pay,2023.0,33,8.5,15,1,8,24.24,10,10,13,7,19
+Emergency,Endocrine,Self-Pay,2025.0,36,8.1,15,1,3,8.33,9,10,17,5,18
+Orthopedics,Endocrine,Self-Pay,2023.0,26,6.5,13,1,6,23.08,10,9,7,10,11
+Orthopedics,Renal,Government,2025.0,62,7.7,15,1,16,25.81,18,25,19,15,32
+Orthopedics,Renal,Self-Pay,2023.0,15,8.2,15,1,1,6.67,6,5,4,1,8
+Cardiology,Cardiovascular,Private,2024.0,80,7.1,15,1,20,25.0,25,33,22,19,36
+Cardiology,Preventive,Private,2023.0,19,8.2,14,1,3,15.79,3,4,12,4,11
+Neurology,Musculoskeletal,Self-Pay,2026.0,5,8.4,12,1,0,0.0,2,0,3,1,4
+Orthopedics,Preventive,Self-Pay,2026.0,7,7.1,15,1,3,42.86,2,2,3,3,3
+Orthopedics,Cardiovascular,Private,2026.0,36,7.6,15,1,3,8.33,16,6,14,4,19
+Orthopedics,Cardiovascular,Self-Pay,2025.0,84,7.5,15,1,12,14.29,34,24,26,17,43
+Cardiology,Cardiovascular,Private,2023.0,68,7.5,15,1,11,16.18,25,20,23,17,32
+Emergency,Musculoskeletal,Government,2026.0,28,6.9,14,1,9,32.14,5,17,6,7,12
+Neurology,Cardiovascular,Self-Pay,2026.0,20,8.1,14,2,5,25.0,7,5,8,3,11
+General Medicine,Musculoskeletal,Private,2023.0,17,6.9,15,1,4,23.53,4,6,7,6,7
+General Medicine,Mental Health,Self-Pay,2025.0,26,8.0,15,1,6,23.08,12,9,5,7,14
+General Medicine,Preventive,Government,2025.0,53,7.8,15,1,13,24.53,15,15,23,14,27
+General Medicine,Renal,Private,2024.0,26,6.7,14,1,1,3.85,7,10,9,8,10
+Orthopedics,Renal,Private,2023.0,17,7.4,15,1,4,23.53,7,8,2,3,7
+Oncology,Preventive,Self-Pay,2023.0,26,7.7,15,1,7,26.92,12,7,7,4,14
+General Medicine,Endocrine,Self-Pay,2023.0,20,7.0,15,1,3,15.0,3,9,8,5,8
+Oncology,Musculoskeletal,Government,2024.0,56,8.7,15,1,12,21.43,14,18,24,6,35
+Oncology,Endocrine,Government,2023.0,26,7.9,14,1,8,30.77,10,4,12,8,15
+Cardiology,Renal,Self-Pay,2024.0,23,9.0,15,3,5,21.74,5,13,5,1,14
+Orthopedics,Endocrine,Private,2023.0,22,8.0,15,1,4,18.18,8,6,8,4,10
+Neurology,Preventive,Private,2024.0,29,7.9,15,1,8,27.59,11,10,8,7,14
+Emergency,Preventive,Private,2025.0,22,8.0,15,1,4,18.18,8,7,7,5,12
+General Medicine,Mental Health,Private,2024.0,20,7.6,15,1,4,20.0,10,2,8,4,8
+Cardiology,Cardiovascular,Self-Pay,2025.0,93,7.6,15,1,21,22.58,28,37,28,20,42
+Orthopedics,Preventive,Self-Pay,2023.0,13,8.6,15,4,2,15.38,3,7,3,0,6
+General Medicine,Cardiovascular,Private,2025.0,72,8.3,15,1,12,16.67,21,19,32,19,41
+Cardiology,Renal,Government,2025.0,53,8.2,15,1,8,15.09,16,18,19,10,26
+Oncology,Mental Health,Self-Pay,2026.0,8,9.9,14,5,1,12.5,1,4,3,0,5
+General Medicine,Renal,Government,2025.0,75,7.8,15,1,14,18.67,25,23,27,15,38
+Oncology,Endocrine,Private,2025.0,30,7.4,15,1,4,13.33,9,10,11,9,16
+General Medicine,Preventive,Self-Pay,2025.0,35,7.7,14,1,7,20.0,12,11,12,10,21
+Oncology,Mental Health,Government,2023.0,38,8.5,15,2,6,15.79,18,7,13,9,23
+Oncology,Respiratory,Private,2024.0,61,8.4,15,1,11,18.03,21,20,20,7,36
+Emergency,Endocrine,Government,2026.0,21,7.8,15,1,5,23.81,8,9,4,4,9
+Orthopedics,Musculoskeletal,Private,2023.0,18,10.1,15,4,8,44.44,9,6,3,0,13
+General Medicine,Musculoskeletal,Private,2025.0,32,7.6,15,1,7,21.88,12,9,11,7,16
+Emergency,Renal,Government,2023.0,35,8.8,15,1,5,14.29,12,14,9,9,20
+Oncology,Respiratory,Private,2023.0,33,8.0,15,1,10,30.3,13,7,13,6,15
+General Medicine,Preventive,Government,2023.0,49,7.9,14,1,8,16.33,12,25,12,6,25
+General Medicine,Musculoskeletal,Government,2024.0,52,7.6,15,1,7,13.46,15,19,18,14,25
+Orthopedics,Preventive,Self-Pay,2024.0,24,7.6,14,1,9,37.5,5,6,13,2,11
+General Medicine,Renal,Self-Pay,2026.0,9,8.3,14,2,3,33.33,2,6,1,3,5
+Emergency,Renal,Private,2023.0,16,9.2,15,1,5,31.25,6,3,7,4,10
+Emergency,Endocrine,Self-Pay,2026.0,3,7.7,10,6,0,0.0,1,1,1,0,1
+Cardiology,Respiratory,Self-Pay,2026.0,19,8.0,14,1,2,10.53,9,5,5,3,10
+Cardiology,Respiratory,Private,2024.0,44,8.4,15,1,9,20.45,12,17,15,8,26
+Oncology,Cardiovascular,Private,2024.0,86,8.2,15,1,16,18.6,31,31,24,19,47
+Cardiology,Musculoskeletal,Self-Pay,2025.0,33,8.6,15,1,7,21.21,18,8,7,4,22
+Neurology,Musculoskeletal,Government,2026.0,17,7.4,13,1,5,29.41,5,4,8,3,8
+General Medicine,Cardiovascular,Government,2024.0,144,8.2,15,1,29,20.14,43,44,57,28,77
+Oncology,Renal,Government,2025.0,50,7.6,15,1,4,8.0,15,16,19,12,27
+Emergency,Preventive,Government,2025.0,54,8.5,15,1,12,22.22,23,16,15,8,29
+General Medicine,Respiratory,Self-Pay,2023.0,35,7.2,14,1,14,40.0,12,8,15,8,16
+Cardiology,Musculoskeletal,Self-Pay,2026.0,8,7.5,15,3,1,12.5,1,3,4,2,5
+Oncology,Preventive,Self-Pay,2025.0,26,9.0,15,1,8,30.77,12,7,7,3,17
+Neurology,Mental Health,Self-Pay,2026.0,5,5.0,15,1,1,20.0,0,1,4,3,1
+Oncology,Respiratory,Self-Pay,2026.0,16,9.3,15,2,3,18.75,6,6,4,2,11
+General Medicine,Respiratory,Private,2023.0,37,9.3,15,1,8,21.62,15,14,8,2,23
+Oncology,Renal,Government,2026.0,13,7.6,15,1,4,30.77,7,2,4,2,6
+General Medicine,Renal,Private,2025.0,19,7.4,15,1,3,15.79,4,9,6,4,10
+Cardiology,Preventive,Government,2023.0,36,8.9,15,1,6,16.67,9,11,16,7,23
+Cardiology,Endocrine,Private,2023.0,21,8.0,15,2,5,23.81,6,5,10,3,11
+Orthopedics,Endocrine,Private,2026.0,12,7.8,12,1,3,25.0,4,2,6,2,6
+Oncology,Cardiovascular,Private,2025.0,80,8.4,15,1,12,15.0,25,31,24,14,48
+Cardiology,Mental Health,Government,2024.0,53,8.6,15,1,10,18.87,17,21,15,10,31
+Emergency,Mental Health,Government,2024.0,49,7.8,15,1,8,16.33,14,16,19,10,25
+General Medicine,Respiratory,Self-Pay,2025.0,49,8.1,15,1,11,22.45,11,14,24,11,25
+Orthopedics,Mental Health,Private,2023.0,14,9.4,15,2,2,14.29,6,1,7,2,10
+Emergency,Mental Health,Self-Pay,2024.0,29,7.5,15,1,3,10.34,8,7,14,7,13
+Emergency,Respiratory,Private,2026.0,21,7.3,14,1,2,9.52,8,4,9,3,8
+Neurology,Mental Health,Government,2023.0,29,7.9,15,1,3,10.34,10,12,7,8,16
+Oncology,Mental Health,Government,2026.0,21,7.5,14,1,6,28.57,2,10,9,5,12
+Cardiology,Mental Health,Self-Pay,2026.0,13,5.8,14,1,4,30.77,4,7,2,4,4
+Cardiology,Endocrine,Private,2024.0,24,9.8,15,1,5,20.83,5,11,8,3,15
+General Medicine,Respiratory,Self-Pay,2026.0,20,8.1,15,1,3,15.0,7,6,7,4,9
+Emergency,Mental Health,Self-Pay,2025.0,27,9.9,15,4,5,18.52,9,8,10,0,21
+General Medicine,Cardiovascular,Self-Pay,2025.0,72,8.6,15,1,7,9.72,23,22,27,14,41
+Cardiology,Musculoskeletal,Private,2023.0,7,6.3,13,1,1,14.29,1,5,1,2,2
+Orthopedics,Musculoskeletal,Private,2025.0,34,7.8,15,2,10,29.41,9,11,14,3,17
+Neurology,Renal,Government,2023.0,35,8.3,15,1,8,22.86,14,10,11,5,20
+Neurology,Preventive,Private,2025.0,28,7.9,14,1,6,21.43,7,6,15,8,15
+Neurology,Mental Health,Private,2026.0,9,9.9,15,1,1,11.11,3,4,2,1,6
+General Medicine,Renal,Self-Pay,2023.0,22,8.0,15,1,6,27.27,9,8,5,7,11
+General Medicine,Musculoskeletal,Private,2024.0,30,7.1,15,1,6,20.0,6,12,12,7,15
+Cardiology,Respiratory,Government,2026.0,35,7.4,15,1,6,17.14,14,9,12,11,16
+General Medicine,Endocrine,Self-Pay,2026.0,11,6.0,15,1,2,18.18,2,7,2,4,4
+General Medicine,Endocrine,Private,2025.0,31,7.5,15,2,5,16.13,12,11,8,8,14
+Neurology,Musculoskeletal,Self-Pay,2024.0,24,8.1,15,1,4,16.67,8,15,1,5,16
+Neurology,Endocrine,Private,2025.0,27,7.6,15,1,4,14.81,4,10,13,6,15
+Neurology,Endocrine,Private,2023.0,22,8.0,15,1,1,4.55,10,8,4,5,11

@@ -1,0 +1,122 @@
+version: 2
+
+models:
+  - name: stg_patients
+    description: "Cleaned and standardized patient data aligned to FHIR Patient resource"
+    columns:
+      - name: patient_id
+        description: "Unique patient identifier"
+        data_tests:
+          - unique
+          - not_null
+
+      - name: first_name
+        description: "Patient first name"
+        data_tests:
+          - not_null
+
+      - name: gender
+        description: "Patient gender"
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ['Male', 'Female', 'Unknown']
+
+      - name: insurance_category
+        description: "Grouped insurance category"
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ['Government', 'Private', 'Self-Pay', 'Unknown']
+
+      - name: age_years
+        description: "Patient age in years"
+        data_tests:
+          - not_null
+
+  - name: stg_encounters
+    description: "Cleaned and standardized encounter data aligned to FHIR Encounter resource"
+    columns:
+      - name: encounter_id
+        description: "Unique encounter identifier"
+        data_tests:
+          - unique
+          - not_null
+
+      - name: patient_id
+        description: "Foreign key to stg_patients"
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_patients')
+              field: patient_id
+
+      - name: encounter_type
+        description: "Type of encounter"
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ['Inpatient', 'Outpatient', 'Emergency']
+
+      - name: los_category
+        description: "Length of stay category"
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ['Short Stay', 'Medium Stay', 'Long Stay', 'Extended Stay']
+
+      - name: diagnosis_category
+        description: "ICD-10 based diagnosis category"
+        data_tests:
+          - not_null
+
+      - name: is_mortality
+        description: "Boolean flag for patient death"
+        data_tests:
+          - not_null
+
+  - name: stg_vitals
+    description: "Cleaned and standardized vitals data aligned to FHIR Observation resource"
+    columns:
+      - name: vital_id
+        description: "Unique vital record identifier"
+        data_tests:
+          - unique
+          - not_null
+
+      - name: encounter_id
+        description: "Foreign key to stg_encounters"
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_encounters')
+              field: encounter_id
+
+      - name: spo2_category
+        description: "Oxygen saturation category"
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ['Normal', 'Low', 'Critical']
+
+  - name: stg_medications
+    description: "Cleaned and standardized medication data aligned to FHIR MedicationRequest"
+    columns:
+      - name: medication_id
+        description: "Unique medication record identifier"
+        data_tests:
+          - unique
+          - not_null
+
+      - name: encounter_id
+        description: "Foreign key to stg_encounters"
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_encounters')
+              field: encounter_id
+
+      - name: is_active
+        description: "Boolean flag for active medications"
+        data_tests:
+          - not_null
